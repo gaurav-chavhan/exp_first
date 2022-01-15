@@ -1,0 +1,28 @@
+
+h1{
+    text-align: center;
+    padding: 30px;
+    
+}
+#container{
+    
+    text-align: center;
+    background-color: coral;
+    padding: 80px;
+    margin: 80px;
+}
+.input-div{
+    display: inline-block;
+}
+
+.inp{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 8px;
+    text-align: center;
+}
+#container label{
+    font-size: 30px;
+    font-weight: bold;
+}
